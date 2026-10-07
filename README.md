@@ -63,3 +63,7 @@ Fetching data from a third-party API, passing data between components, condition
 ---
 
 👤 **Tony Mulunda** — [GitHub @Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A React application that consumes live weather data from OpenWeatherMap and turns API responses into an easy-to-read interface. It demonstrates REST API integration, asynchronous requests, React component design, conditional rendering and reusable UI styling.
