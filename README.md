@@ -6,6 +6,13 @@ A React weather app that shows the current weather for any city using the **Open
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap_API-EB6E4B?style=flat-square)
 
+<p align="center">
+  <img src="docs/images/search.png" alt="City search screen" width="40%">
+  &nbsp;
+  <img src="docs/images/result.png" alt="Weather result for Cape Town" width="40%">
+</p>
+<p align="center"><sub>Search screen and the result for Cape Town</sub></p>
+
 ## ✨ Features
 
 - 🔎 Search for any city
